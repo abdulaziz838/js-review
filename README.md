@@ -20,14 +20,14 @@ BONUS: Print the area in the following syntax: "If the length of a rectangle is 
 
 ## FUNCTIONS
 1. Create a function called cube
-2. It takes an argument called number
-3. It returns the cube of that number (the number to the power of 3)
-4. Call function to test it out
+- It takes an argument called number
+- It returns the cube of that number (the number to the power of 3)
+- Call function to test it out
 
-1. Create a function called by_three
-2. It takes an argument called number
-3. If number is divisible by 3, by_three should call `cube(number) and return its result
-4. Otherwise, by_three should return False.
+2. Create a function called by_three
+- It takes an argument called number
+- If number is divisible by 3, by_three should call `cube(number) and return its result
+- Otherwise, by_three should return False.
 
 ## FUNCTIONS EXTRA
 1. Define a function called padel_court_cost. This function has two arguments, hours and court_type
